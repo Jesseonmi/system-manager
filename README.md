@@ -11,7 +11,9 @@ System Manager is a simple yet powerful way to manage your Windows device inside
 Here are the currently available commands.
 
 `!shutdown`: Shut down your device.
+
 `!restart`: Restart your device.
+
 `!rerun`: Load the data again in order to see the newest information.
 
 ## Usage
