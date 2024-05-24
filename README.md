@@ -2,4 +2,4 @@
 
 ## Introduction
 
-![System Manager Logo](Logo.png)
+![System Manager Logo](Logo.PNG)
