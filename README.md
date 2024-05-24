@@ -1,2 +1,5 @@
-# system-manager
-This is a simple System Manager built in C++ for Windows.
+# System Manager
+
+## Introduction
+
+![System Manager Logo](Logo.png)
